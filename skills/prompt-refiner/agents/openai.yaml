@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Refiner"
+  short_description: "分析前端项目上下文，将模糊需求整理成可执行的高质量提示词"
+  default_prompt: "Use $prompt-refiner to refine my frontend development request into a precise implementation prompt."
